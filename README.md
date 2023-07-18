@@ -19,5 +19,5 @@ se usó la librería javax.swing.JOptionPane para el manejo de interfaces gráfi
 El código se agrupó en clases y en paquetes (package) para que su comprensión y mantenimiento fuera más fácil y entendible
 
 FUNCIONAMIENTO
-
+https://drive.google.com/file/d/1Y6h2xvIFVTGG41558v3FKHbTuwKBQWCs/view?usp=sharing
 
